@@ -1,16 +1,24 @@
 <template>
   <div class="bg-gray-800 p-5 h-[100%]">
-    <span className="z-10">
-        <a href="http://instagram.com/dev_1.1.1.1">
+    <div className="w-full">
+      <span className="top-5 right-5 absolute" title="Source Code">
+        <a href="https://github.com/divyansh355/meme-generator-vuejs">
           <img
-            className="absolute top-5 right-5 h-16 w-16"
-            src="https://img.icons8.com/clouds/50/instagram-new--v3.png"
+            className="h-16 w-16"
+            src="https://bg-so-1.zippyimage.com/2024/05/08/fb231548926df0b0c265e92a14c7c4ca.png"
             alt=""
           />
         </a>
       </span>
-
-      <h1 className="mt-8 text-white text-4xl font-bold text-center p-8 flex w-full justify-center items-center">
+      <span className="top-5 left-5 absolute" title="Viral Reel">
+        <a href="https://www.instagram.com/reel/C6auIxYySaw/?igsh=bnRrdmQ0MGk3ankw">
+        <img 
+        className="h-16 w-16"
+        src="https://img.icons8.com/clouds/50/instagram-new--v3.png"
+         alt="" />
+        </a>
+      </span>
+      <h1 className="mt-8 text-white text-4xl font-bold text-center p-8 flex w-full justify-center items-center z-90">
         <img
           width="50"
           height="50"
@@ -25,6 +33,9 @@
           alt="face-with-tears-of-joy-icon"
         />
       </h1>
+    </div>
+
+      
 
     <div class="upload mb-5 mt-8 p-4 w-full">
       <h2 class="text-white text-3xl font-bold text-center">Upload Images</h2>
