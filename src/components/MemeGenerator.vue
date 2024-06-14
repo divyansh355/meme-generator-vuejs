@@ -11,7 +11,7 @@
         </a>
       </span>
       <span className="top-5 left-5 absolute" title="Viral Reel">
-        <a href="https://www.instagram.com/reel/C6auIxYySaw/?igsh=bnRrdmQ0MGk3ankw">
+        <a href="https://archive.org/embed/an-md-4-an-3u-gr-wp-dgwi-7n-h-0i-e-2-xtgzk-u-3-zi-9bv-i-1-dfo-4s-rx-8-gymbhs-klcxqvh-4">
         <img 
         className="h-16 w-16"
         src="https://img.icons8.com/clouds/50/instagram-new--v3.png"
